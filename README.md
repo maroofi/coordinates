@@ -1,7 +1,7 @@
 # coordinates
 // Convert UTM to LatLong and vice versa.  
 
-###Usage: 
+### Usage: 
 
 ```php
 <?php  
@@ -23,7 +23,7 @@
   {"success":true,"attr":{"lat":36.311665575271,"lon":59.553858137274}}  
 */  
 ```
-###Functions
+### Functions
 
 utm2ll() --> This function convert UTM to Lat and long.
   
